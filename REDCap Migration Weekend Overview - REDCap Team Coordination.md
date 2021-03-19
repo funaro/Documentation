@@ -49,7 +49,7 @@ modified: '2021-03-19T13:51:58.258Z'
     Just to verify DNS, no change in REDCap App settings.
 
 
-**Summon The Data Team:**
+**Alert the Data Team:**
 - By 11:00 Email goes out to REDCap@Yale Migration Team.
 - The email speaks of success, and next phases of testing and validation on the imported database.
 - Begin testing projects, external modules and Mary's checklist on Teams.
