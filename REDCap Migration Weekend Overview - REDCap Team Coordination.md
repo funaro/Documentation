@@ -20,7 +20,7 @@ modified: '2021-03-19T23:06:37.867Z'
   - SSL certificated transferred update.
   - remind them - :80--->:443
 
-**LESS Team** - because less is more:
+**LESS Team** - 'because less is more':
 - Execute on prepared Documentation and DB Import Checklists.
     - Doco sources: Tyler's github repo documentation checklist & Teams LESS migration documentation/outline. 
     - Capture SQL Dumps - Begin DB import process on Spinup DB Host.  
