@@ -68,9 +68,8 @@ modified: '2021-03-19T23:06:37.867Z'
 
 
 **Sunday March 21:**
-- Live test of alternate 'redcap.med.yale.edu' https - (if all else is going well...or else skip this.)
+- Live test of alt 'redcap.med.yale.edu' https - (if all else is going well...or else skip this.)
 This means change the Home Page setting, so the Banner Module works.
-- 1st live application test of alt DNS. 
 
 
 **@Data Managers Team:**
